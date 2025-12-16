@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "GFWJUABSS9.com.ugurhmz.DipDiveDeepLinkSwiftUI",
+        "paths": [ "*" ]
+      }
+    ]
+  }
+}
